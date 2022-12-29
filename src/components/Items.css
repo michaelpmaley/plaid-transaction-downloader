@@ -1,0 +1,12 @@
+table {
+   width: 100%;
+   border-collapse: collapse;
+ }
+ thead {
+   background-color: #1c87c9;
+   color: #ffffff;
+ }
+ th, td {
+   text-align: left;
+   padding: 7px;
+ }
